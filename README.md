@@ -50,3 +50,12 @@
 - task(任务) / future
 - async(定义协程)
 - await(挂起阻塞的执行)
+
+## selenium
+
+- 获取ajax动态数据
+- 模拟登录
+- puppeteer / playwright
+- 无头浏览器, 自动化
+- 浏览器驱动: chromedriver (版本映射匹配)
+- 
