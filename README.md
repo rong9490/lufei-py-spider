@@ -58,4 +58,8 @@
 - puppeteer / playwright
 - 无头浏览器, 自动化
 - 浏览器驱动: chromedriver (版本映射匹配)
-- 
+
+## scrapy
+
+- item / process_item
+- mysqlPipeLine(object) 一个管道类对应数据存储一个平台

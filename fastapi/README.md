@@ -1,0 +1,3 @@
+- pip3 install fastapi
+- pip3 install cmake
+- pip3 install unicron
